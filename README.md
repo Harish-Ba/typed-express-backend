@@ -46,6 +46,7 @@ To start the server, run:
 ```
 npm start
 ```
+Import the postman collection and call the examples in the request api
 
 ### API Endpoints
 
